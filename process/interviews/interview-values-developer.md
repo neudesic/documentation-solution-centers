@@ -1,9 +1,7 @@
 
-# Solution Center Interview Reference Sheet
+# Values Interview / Behavioral Screening
 
 Note that these questions are examples, and you are not required to ask all of them. As a guideline, try to make sure 2-3 questions per category get asked.
-
-# Values Interview / Behavioral Screening
 
 ## Evaluating A Candidate During A Values Screening
 
@@ -90,7 +88,7 @@ Innovation is the ability to practically implement ideas. Innovation takes ideas
 3. What does the word &quot;innovation&quot; mean to you?
 4. What has been your most meaningful work experience?
 
-1. Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful. A great answer will include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
+Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful. A great answer will include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
 
 **What to look for in an answer:**
 
@@ -120,7 +118,7 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 
 **Project Management (Senior/Team Lead)**
 
-5. How do you determine if a task or project is at risk?
+5. **How do you determine if a task or project is at risk?**
 
 >Team leaders have a responsibility to communicate team goals. They must ensure work is completed by the deadline and at the quality level that&#39;s expected by upper management and customers. This question lets you see how Candidates monitor tasks and projects, identify issues and make certain the team is helping the company achieve its main goals.
 >
@@ -132,7 +130,7 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 >
 >**Example:** &quot;First, I communicate work expectations clearly to team members, being sure to highlight everything that&#39;s been communicated to me from managers and executives. This reduces the chance of failure. Second, throughout a task or project, I monitor key performance indicators to see if the team is on schedule, within budget and producing quality work. I also ask that team members maintain constant communication with me throughout the project. This allows me to anticipate and identify problems before they arise and reduce any negative effects.&quot;
 
-6. What metrics do you use to evaluate team performance?
+6. **What metrics do you use to evaluate team performance?**
 
 >Team leaders are not just expected to generate and share detailed performance reports with the team and company management. They should also know how to use data-driven insights to boost team efficiency. Look for answers that show a team leader won&#39;t rely on instinct to make decisions but rather will examine the numbers to determine the best solutions and changes to increase performance.
 >
@@ -146,8 +144,8 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 
 **Team Management (Senior/Team Lead)**
 
->7. What do you do if there&#39;s a disagreement within your team?
->
+7. **What do you do if there&#39;s a disagreement within your team?**
+
 >The success of a team often depends on the ability of its leaders to get everyone working together towards a common goal. A lack of unity can lead to failure. With this question, you can gain an understanding of how the Candidate would handle the situation successfully and move the team in a positive direction.
 >
 >**What to look for in an answer:**
@@ -158,7 +156,7 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 >
 >**Example:** &quot;Disagreements can happen, especially when people have strong opinions over the way a task should be done. I would first ask the team members to take a step back. I would then lead a team discussion so that we can all understand each other&#39;s point of view. If appropriate, I would negotiate a compromise that would put the team in the best position for success. If there is clearly a right way to handle the situation, I will explain why we&#39;re choosing one solution over the other.&quot;
 
-8. Describe your leadership style.
+8. **Describe your leadership style.**
 
 >When you hire a team leader for our business, you want to ensure they have a strategy in place for overseeing their employees. Many team leaders subscribe to a specific leadership style, while others create their own with clear and effective tenants of their own choosing. Regardless of what leadership style our potential candidates employ, the candidate should be able to clearly explain it to you.
 >
@@ -193,8 +191,8 @@ Integrity is consistently adhering to moral and ethical values regardless of the
 5. What do you look for in an employer?
   1. The best answer to this question would highlight the overlap between the candidate&#39;s passion and Neudesic&#39;s objectives. Look for signs of self-awareness, thoughtful career goals and an appreciation for the needs of the company.
 
-**What to look for in an answer:**
-
-- Clearly articulated career goals
-- Desire to contribute meaningfully
-- Recognition of the role employees play in meeting company goals
+>**What to look for in an answer:**
+>
+>- Clearly articulated career goals
+>- Desire to contribute meaningfully
+>- Recognition of the role employees play in meeting company goals
