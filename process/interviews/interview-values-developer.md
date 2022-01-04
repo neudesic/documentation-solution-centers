@@ -24,30 +24,35 @@ Passion is intense desire or enthusiasm for something. Passion clarifies purpose
 
 #### Passion Question Examples
 
-1. Tell me a time you had to go learn a new technology. How did you approach it, and what method did you find most useful?
-2. Tell me about your favorite project you have worked on.
-  1. What about this project made it your favorite?
-3. Take five minutes and teach me about something in tech that you find interesting.
-4. What is it about Neudesic that makes you want to work here?
-5. What has been your most meaningful work experience?
-  1. Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful.
-    1. A great answer could include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
-    2. A great answer could also include talking about a great team experience or meaningful project outside of the specifics of the code.
+1. **Tell me a time you had to go learn a new technology. How did you approach it, and what method did you find most useful?**
 
-**What to look for in an answer:**
+2. **Tell me about your favorite project you have worked on.  What about this project made it your favorite?**
 
-- Industry-specific problem-solving skills
-- Creativity and initiative
-- Self-awareness and an accurate appraisal of business value
+3. **Take five minutes and teach me about something in tech that you find interesting.**
 
-1. What are your career goals, and how do you plan to achieve them?
-  1. A great employee is both ambitious and cooperative. Here, they should demonstrate a vision for their future that will make them an energetic and functional addition to your team.
+4. **What is it about Neudesic that makes you want to work here?**
 
-**What to look for in an answer:**
+5. **What has been your most meaningful work experience?**
 
-- A motivating vision
-- Interest in skills development
-- Interest in the industry and mission of the company
+>- Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful.
+>   - A great answer could include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
+>   - A great answer could also include talking about a great team experience or meaningful project outside of the specifics of the code.
+>
+>**What to look for in an answer:**
+>
+>- Industry-specific problem-solving skills
+>- Creativity and initiative
+>- Self-awareness and an accurate appraisal of business value
+
+**6. What are your career goals, and how do you plan to achieve them?**
+
+>-A great employee is both ambitious and cooperative. Here, they should demonstrate a vision for their future that will make them an energetic and functional addition to your team.
+>
+>**What to look for in an answer:**
+>
+>- A motivating vision
+>- Interest in skills development
+>- Interest in the industry and mission of the company
 
 **__________________________________________________________________________________________________________________**
 ### DISCIPLINE
