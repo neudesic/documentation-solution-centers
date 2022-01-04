@@ -1,7 +1,7 @@
 
 # Values Interview / Behavioral Screening
 
-Note that these questions are examples, and you are not required to ask all of them. As a guideline, try to make sure 2-3 questions per category get asked.
+***Note**: These questions are examples, and you are not required to ask all of them. As a guideline, try to make sure 2-3 questions per category get asked.*
 
 ## Evaluating A Candidate During A Values Screening
 
@@ -10,7 +10,7 @@ Below is the list of our core values (PDITI). Underneath each value you&#39;ll f
 1. Questions to help you evaluate the presence of our values in the candidate
 2. Additional information about each value to aid in your evaluation
 
-**__________________________________________________________________________________________________________________**
+***
 ### PASSION
 
 #### What is it?
@@ -54,7 +54,7 @@ Passion is intense desire or enthusiasm for something. Passion clarifies purpose
 >- Interest in skills development
 >- Interest in the industry and mission of the company
 
-**__________________________________________________________________________________________________________________**
+***
 ### DISCIPLINE
 
 #### What is it?
@@ -74,7 +74,7 @@ Discipline is the ability to control what one does and doesn&#39;t do regardless
 4. How do you motivate yourself to tackle the least appealing item on your to-do list?
 5. What are some of the things you&#39;ve been working on improving recently?
 
-**__________________________________________________________________________________________________________________**
+***
 ### INNOVATION
 
 #### What is it?
@@ -101,7 +101,7 @@ Listen for details of a project or challenge where the candidate showed competen
   - Creativity and initiative
   - Self-awareness and an accurate appraisal of business value
 
-**__________________________________________________________________________________________________________________**
+***
 ### TEAMING
 
 #### What is it?
@@ -175,7 +175,7 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 >
 >&quot;Knowing a bit about your company culture, I think this approach will work well. The innovative and creativity driven culture fits well with my leadership style.&quot;
 
-**__________________________________________________________________________________________________________________**
+***
 ### INTEGRITY
 
 #### What is it?
