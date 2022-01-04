@@ -22,8 +22,9 @@ Passion is intense desire or enthusiasm for something. Passion clarifies purpose
 - Displays excitement for learning new things
 - Significant interest in personal/career growth
 
-#### Passion Question Examples
+#### Example Questions
 
+<<<<<<< Updated upstream
 1. **Tell me a time you had to go learn a new technology. How did you approach it, and what method did you find most useful?**
 
 2. **Tell me about your favorite project you have worked on.  What about this project made it your favorite?**
@@ -48,6 +49,20 @@ Passion is intense desire or enthusiasm for something. Passion clarifies purpose
 
 >-A great employee is both ambitious and cooperative. Here, they should demonstrate a vision for their future that will make them an energetic and functional addition to your team.
 >
+=======
+1. Tell me a time you had to go learn a new technology. How did you approach it, and what method did you find most useful?
+2. Tell me about your favorite project you have worked on.
+   - What about this project made it your favorite?
+3. Take five minutes and teach me about something in tech that you find interesting.
+4. What is it about Neudesic that makes you want to work here?
+5. What has been your most meaningful work experience?
+   - Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful.
+     - A great answer could include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
+     - A great answer could also include talking about a great team experience or meaningful project outside of the specifics of the code.
+6. What are your career goals, and how do you plan to achieve them?
+   - A great employee is both ambitious and cooperative. Here, they should demonstrate a vision for their future that will make them an energetic and functional addition to your team.
+
+>>>>>>> Stashed changes
 >**What to look for in an answer:**
 >
 >- A motivating vision
@@ -66,7 +81,7 @@ Discipline is the ability to control what one does and doesn&#39;t do regardless
 - Ability to navigate ambiguity
 - Ability to create structure for themselves (goals/plans etc)
 
-#### Discipline Question Examples
+#### Example Questions
 
 1. You just got back from vacation, and you have 100 unread emails. How do you address them?
 2. How many icons are on your desktop, right now?
@@ -86,7 +101,7 @@ Innovation is the ability to practically implement ideas. Innovation takes ideas
 - Displays evidence of creative problem solving
 - Displays an ability to absorb and retain advanced/unfamiliar concepts
 
-#### Innovation Questions
+#### Example Questions
 
 1. Why are manhole covers round?
 2. Why are tennis balls fuzzy?
@@ -95,11 +110,11 @@ Innovation is the ability to practically implement ideas. Innovation takes ideas
 
 Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful. A great answer will include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
 
-**What to look for in an answer:**
-
-  - Industry-specific problem-solving skills
-  - Creativity and initiative
-  - Self-awareness and an accurate appraisal of business value
+>**What to look for in an answer:**
+>
+>  - Industry-specific problem-solving skills
+>  - Creativity and initiative
+>  - Self-awareness and an accurate appraisal of business value
 
 ***
 ### TEAMING
@@ -114,7 +129,7 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 - Ability to give and receive feedback effectively
 - Looking at team needs and teammate needs before your own
 
-#### Teaming Questions
+#### Example Questions
 
 1. Give me an example of a time you made a decision that was unpopular and explain how you handled implementing it.
 2. Share an example of how you were able to motivate a coworker, your peers or your team.
@@ -125,8 +140,8 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 
 5. **How do you determine if a task or project is at risk?**
 
->Team leaders have a responsibility to communicate team goals. They must ensure work is completed by the deadline and at the quality level that&#39;s expected by upper management and customers. This question lets you see how Candidates monitor tasks and projects, identify issues and make certain the team is helping the company achieve its main goals.
->
+Team leaders have a responsibility to communicate team goals. They must ensure work is completed by the deadline and at the quality level that&#39;s expected by upper management and customers. This question lets you see how Candidates monitor tasks and projects, identify issues and make certain the team is helping the company achieve its main goals.
+
 >**What to look for in an answer:**
 >
 >- Candidate's ability to communicate expectations and collaborate with team members
@@ -137,8 +152,8 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 
 6. **What metrics do you use to evaluate team performance?**
 
->Team leaders are not just expected to generate and share detailed performance reports with the team and company management. They should also know how to use data-driven insights to boost team efficiency. Look for answers that show a team leader won&#39;t rely on instinct to make decisions but rather will examine the numbers to determine the best solutions and changes to increase performance.
->
+Team leaders are not just expected to generate and share detailed performance reports with the team and company management. They should also know how to use data-driven insights to boost team efficiency. Look for answers that show a team leader won&#39;t rely on instinct to make decisions but rather will examine the numbers to determine the best solutions and changes to increase performance.
+
 >**What to look for in an answer:**
 >
 >- Candidate&#39;s method for improving team performance
@@ -151,8 +166,8 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 
 7. **What do you do if there&#39;s a disagreement within your team?**
 
->The success of a team often depends on the ability of its leaders to get everyone working together towards a common goal. A lack of unity can lead to failure. With this question, you can gain an understanding of how the Candidate would handle the situation successfully and move the team in a positive direction.
->
+The success of a team often depends on the ability of its leaders to get everyone working together towards a common goal. A lack of unity can lead to failure. With this question, you can gain an understanding of how the Candidate would handle the situation successfully and move the team in a positive direction.
+
 >**What to look for in an answer:**
 >
 >- Candidate&#39;s decision-making and problem-solving approach
@@ -163,8 +178,8 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 
 8. **Describe your leadership style.**
 
->When you hire a team leader for our business, you want to ensure they have a strategy in place for overseeing their employees. Many team leaders subscribe to a specific leadership style, while others create their own with clear and effective tenants of their own choosing. Regardless of what leadership style our potential candidates employ, the candidate should be able to clearly explain it to you.
->
+When you hire a team leader for our business, you want to ensure they have a strategy in place for overseeing their employees. Many team leaders subscribe to a specific leadership style, while others create their own with clear and effective tenants of their own choosing. Regardless of what leadership style our potential candidates employ, the candidate should be able to clearly explain it to you.
+
 >**What to look for in an answer:**
 >
 >- Describes a specific leadership style or strategy
@@ -187,14 +202,14 @@ Integrity is consistently adhering to moral and ethical values regardless of the
 - Exercises meaningful judgement
 - Understands how to build and maintain trust
 
-#### Integrity Questions
+#### Example Questions
 
 1. What has you on the job market at this time?
 2. What are you looking for in your new role/opportunity?
 3. Tell me about a time you developed a feature for a user and, once delivered, it wasn&#39;t what they wanted. Where was the disconnect, and what did you learn from this experience?
 4. Can you give me an example of how you&#39;ve contributed to the culture of previous teams, companies or groups?
 5. What do you look for in an employer?
-  1. The best answer to this question would highlight the overlap between the candidate&#39;s passion and Neudesic&#39;s objectives. Look for signs of self-awareness, thoughtful career goals and an appreciation for the needs of the company.
+   - The best answer to this question would highlight the overlap between the candidate&#39;s passion and Neudesic&#39;s objectives. Look for signs of self-awareness, thoughtful career goals and an appreciation for the needs of the company.
 
 >**What to look for in an answer:**
 >
