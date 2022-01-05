@@ -1,7 +1,7 @@
 
 # Other Question Bank
 
-Note that these are currently questions from the past question bank that need to be gone over to see if they are still applicable
+***Note**: These are currently questions from the past question bank that need to be gone over to see if they are still applicable.*
 
 # General Character Investigation / Culture Fit
 
