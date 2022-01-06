@@ -61,11 +61,11 @@ Discipline is the ability to control what one does and doesn&#39;t do regardless
 
 #### Example Questions
 
-1. You just got back from vacation, and you have 100 unread emails. How do you address them?
-2. How many icons are on your desktop, right now?
-3. Give me an example of a time you had to prioritize certain tasks or projects over others.
-4. How do you motivate yourself to tackle the least appealing item on your to-do list?
-5. What are some of the things you&#39;ve been working on improving recently?
+1. **You just got back from vacation, and you have 100 unread emails. How do you address them?**
+2. **How many icons are on your desktop, right now?**
+3. **Give me an example of a time you had to prioritize certain tasks or projects over others.**
+4. **How do you motivate yourself to tackle the least appealing item on your to-do list?**
+5. **What are some of the things you&#39;ve been working on improving recently?**
 
 ***
 ### INNOVATION
@@ -81,10 +81,10 @@ Innovation is the ability to practically implement ideas. Innovation takes ideas
 
 #### Example Questions
 
-1. Why are manhole covers round?
-2. Why are tennis balls fuzzy?
-3. What does the word &quot;innovation&quot; mean to you?
-4. What has been your most meaningful work experience?
+1. **Why are manhole covers round?**
+2. **Why are tennis balls fuzzy?**
+3. **What does the word &quot;innovation&quot; mean to you?**
+4. **What has been your most meaningful work experience?**
 
 Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful. A great answer will include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
 
@@ -109,10 +109,10 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 
 #### Example Questions
 
-1. Give me an example of a time you made a decision that was unpopular and explain how you handled implementing it.
-2. Share an example of how you were able to motivate a coworker, your peers or your team.
-3. You get a call from your manager saying your web application is having intermittent access problems. At first glance, it sounds like an issue with one of the VMs on the load balancer managed by the network team. How do you proceed?
-4. Tell me about a time when you worked with a colleague who was not doing their share of the work. How did you handle it?
+1. **Give me an example of a time you made a decision that was unpopular and explain how you handled implementing it.**
+2. **Share an example of how you were able to motivate a coworker, your peers or your team.**
+3. **You get a call from your manager saying your web application is having intermittent access problems. At first glance, it sounds like an issue with one of the VMs on the load balancer managed by the network team. How do you proceed?**
+4. **Tell me about a time when you worked with a colleague who was not doing their share of the work. How did you handle it?**
 
 **Project Management (Senior/Team Lead)**
 
@@ -182,11 +182,11 @@ Integrity is consistently adhering to moral and ethical values regardless of the
 
 #### Example Questions
 
-1. What has you on the job market at this time?
-2. What are you looking for in your new role/opportunity?
-3. Tell me about a time you developed a feature for a user and, once delivered, it wasn&#39;t what they wanted. Where was the disconnect, and what did you learn from this experience?
-4. Can you give me an example of how you&#39;ve contributed to the culture of previous teams, companies or groups?
-5. What do you look for in an employer?
+1. **What has you on the job market at this time?**
+2. **What are you looking for in your new role/opportunity?**
+3. **Tell me about a time you developed a feature for a user and, once delivered, it wasn&#39;t what they wanted. Where was the disconnect, and what did you learn from this experience?**
+4. **Can you give me an example of how you&#39;ve contributed to the culture of previous teams, companies or groups?**
+5. **What do you look for in an employer?**
    - The best answer to this question would highlight the overlap between the candidate&#39;s passion and Neudesic&#39;s objectives. Look for signs of self-awareness, thoughtful career goals and an appreciation for the needs of the company.
 
 >**What to look for in an answer:**
