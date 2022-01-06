@@ -25,15 +25,10 @@ Passion is intense desire or enthusiasm for something. Passion clarifies purpose
 #### Example Questions
 
 1. **Tell me a time you had to go learn a new technology. How did you approach it, and what method did you find most useful?**
-
 2. **Tell me about your favorite project you have worked on.  What about this project made it your favorite?**
-
 3. **Take five minutes and teach me about something in tech that you find interesting.**
-
 4. **What is it about Neudesic that makes you want to work here?**
-
 5. **What has been your most meaningful work experience?**
-
    - Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful.
      - A great answer could include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
      - A great answer could also include talking about a great team experience or meaningful project outside of the specifics of the code.
@@ -117,7 +112,6 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 **Project Management (Senior/Team Lead)**
 
 5. **How do you determine if a task or project is at risk?**
-
 Team leaders have a responsibility to communicate team goals. They must ensure work is completed by the deadline and at the quality level that&#39;s expected by upper management and customers. This question lets you see how Candidates monitor tasks and projects, identify issues and make certain the team is helping the company achieve its main goals.
 
 >**What to look for in an answer:**
@@ -129,7 +123,6 @@ Team leaders have a responsibility to communicate team goals. They must ensure w
 >**Example:** &quot;First, I communicate work expectations clearly to team members, being sure to highlight everything that&#39;s been communicated to me from managers and executives. This reduces the chance of failure. Second, throughout a task or project, I monitor key performance indicators to see if the team is on schedule, within budget and producing quality work. I also ask that team members maintain constant communication with me throughout the project. This allows me to anticipate and identify problems before they arise and reduce any negative effects.&quot;
 
 6. **What metrics do you use to evaluate team performance?**
-
 Team leaders are not just expected to generate and share detailed performance reports with the team and company management. They should also know how to use data-driven insights to boost team efficiency. Look for answers that show a team leader won&#39;t rely on instinct to make decisions but rather will examine the numbers to determine the best solutions and changes to increase performance.
 
 >**What to look for in an answer:**
@@ -141,7 +134,6 @@ Team leaders are not just expected to generate and share detailed performance re
 >**Example:** &quot;Given all the data we have today, it&#39;s essential that team leaders analyze and extract insights from that data to increase effectiveness. My opinion is that the metrics a team focuses on should strongly link to a company&#39;s strategic objectives. In a general sense, I always look at quantity, quality and time. For instance, to measure the quality of work, it&#39;s important to look at the number of errors and customer satisfaction. Another thing I measure is employee morale and engagement because those can make or break a team.&quot;
 
 **Team Management (Senior/Team Lead)**
-
 7. **What do you do if there&#39;s a disagreement within your team?**
 
 The success of a team often depends on the ability of its leaders to get everyone working together towards a common goal. A lack of unity can lead to failure. With this question, you can gain an understanding of how the Candidate would handle the situation successfully and move the team in a positive direction.
@@ -155,7 +147,6 @@ The success of a team often depends on the ability of its leaders to get everyon
 >**Example:** &quot;Disagreements can happen, especially when people have strong opinions over the way a task should be done. I would first ask the team members to take a step back. I would then lead a team discussion so that we can all understand each other&#39;s point of view. If appropriate, I would negotiate a compromise that would put the team in the best position for success. If there is clearly a right way to handle the situation, I will explain why we&#39;re choosing one solution over the other.&quot;
 
 8. **Describe your leadership style.**
-
 When you hire a team leader for our business, you want to ensure they have a strategy in place for overseeing their employees. Many team leaders subscribe to a specific leadership style, while others create their own with clear and effective tenants of their own choosing. Regardless of what leadership style our potential candidates employ, the candidate should be able to clearly explain it to you.
 
 >**What to look for in an answer:**
