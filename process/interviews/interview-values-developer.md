@@ -32,7 +32,6 @@ Passion is intense desire or enthusiasm for something. Passion clarifies purpose
    - Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful.
      - A great answer could include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
      - A great answer could also include talking about a great team experience or meaningful project outside of the specifics of the code.
-
 6. **What are your career goals, and how do you plan to achieve them?**
    - A great employee is both ambitious and cooperative. Here, they should demonstrate a vision for their future that will make them an energetic and functional addition to your team.
 
