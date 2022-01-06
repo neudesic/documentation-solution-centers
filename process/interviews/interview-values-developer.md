@@ -1,7 +1,8 @@
 
 # Values Interview / Behavioral Screening
 
-***Note**: These questions are examples, and you are not required to ask all of them. As a guideline, try to make sure 2-3 questions per category get asked.*
+<p style="color:red">
+<em><strong>Note</strong>: These questions are examples, and you are not required to ask all of them. As a guideline, try to make sure 2-3 questions per category get asked.</em></p>
 
 ## Evaluating A Candidate During A Values Screening
 
