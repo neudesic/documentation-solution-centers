@@ -133,6 +133,7 @@ Team leaders are not just expected to generate and share detailed performance re
 >**Example:** &quot;Given all the data we have today, it&#39;s essential that team leaders analyze and extract insights from that data to increase effectiveness. My opinion is that the metrics a team focuses on should strongly link to a company&#39;s strategic objectives. In a general sense, I always look at quantity, quality and time. For instance, to measure the quality of work, it&#39;s important to look at the number of errors and customer satisfaction. Another thing I measure is employee morale and engagement because those can make or break a team.&quot;
 
 **Team Management (Senior/Team Lead)**
+
 7. **What do you do if there&#39;s a disagreement within your team?**
 
 The success of a team often depends on the ability of its leaders to get everyone working together towards a common goal. A lack of unity can lead to failure. With this question, you can gain an understanding of how the Candidate would handle the situation successfully and move the team in a positive direction.
