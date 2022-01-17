@@ -79,8 +79,7 @@ Innovation is the ability to practically implement ideas. Innovation takes ideas
 2. **Why are tennis balls fuzzy?**
 3. **What does the word &quot;innovation&quot; mean to you?**
 4. **What has been your most meaningful work experience?**
-
-Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful. A great answer will include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
+   - Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful. A great answer will include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
 
 >**What to look for in an answer:**
 >
@@ -107,10 +106,11 @@ Teaming is consistently putting the wants and needs of the team above your own. 
 2. **Share an example of how you were able to motivate a coworker, your peers or your team.**
 3. **You get a call from your manager saying your web application is having intermittent access problems. At first glance, it sounds like an issue with one of the VMs on the load balancer managed by the network team. How do you proceed?**
 4. **Tell me about a time when you worked with a colleague who was not doing their share of the work. How did you handle it?**
+5. **Define a &quot;great team&quot;. Feel free to use any analogy or team to explain the moving parts and what you think makes a team &quot;great&quot;**
 
 **Project Management (Senior/Team Lead)**
 
-5. **How do you determine if a task or project is at risk?**
+6. **How do you determine if a task or project is at risk?**
 Team leaders have a responsibility to communicate team goals. They must ensure work is completed by the deadline and at the quality level that&#39;s expected by upper management and customers. This question lets you see how Candidates monitor tasks and projects, identify issues and make certain the team is helping the company achieve its main goals.
 
 >**What to look for in an answer:**
@@ -121,7 +121,7 @@ Team leaders have a responsibility to communicate team goals. They must ensure w
 >
 >**Example:** &quot;First, I communicate work expectations clearly to team members, being sure to highlight everything that&#39;s been communicated to me from managers and executives. This reduces the chance of failure. Second, throughout a task or project, I monitor key performance indicators to see if the team is on schedule, within budget and producing quality work. I also ask that team members maintain constant communication with me throughout the project. This allows me to anticipate and identify problems before they arise and reduce any negative effects.&quot;
 
-6. **What metrics do you use to evaluate team performance?**
+7. **What metrics do you use to evaluate team performance?**
 Team leaders are not just expected to generate and share detailed performance reports with the team and company management. They should also know how to use data-driven insights to boost team efficiency. Look for answers that show a team leader won&#39;t rely on instinct to make decisions but rather will examine the numbers to determine the best solutions and changes to increase performance.
 
 >**What to look for in an answer:**
@@ -134,7 +134,7 @@ Team leaders are not just expected to generate and share detailed performance re
 
 **Team Management (Senior/Team Lead)**
 
-7. **What do you do if there&#39;s a disagreement within your team?**
+8. **What do you do if there&#39;s a disagreement within your team?**
 
 The success of a team often depends on the ability of its leaders to get everyone working together towards a common goal. A lack of unity can lead to failure. With this question, you can gain an understanding of how the Candidate would handle the situation successfully and move the team in a positive direction.
 
@@ -146,7 +146,7 @@ The success of a team often depends on the ability of its leaders to get everyon
 >
 >**Example:** &quot;Disagreements can happen, especially when people have strong opinions over the way a task should be done. I would first ask the team members to take a step back. I would then lead a team discussion so that we can all understand each other&#39;s point of view. If appropriate, I would negotiate a compromise that would put the team in the best position for success. If there is clearly a right way to handle the situation, I will explain why we&#39;re choosing one solution over the other.&quot;
 
-8. **Describe your leadership style.**
+9. **Describe your leadership style.**
 When you hire a team leader for our business, you want to ensure they have a strategy in place for overseeing their employees. Many team leaders subscribe to a specific leadership style, while others create their own with clear and effective tenants of their own choosing. Regardless of what leadership style our potential candidates employ, the candidate should be able to clearly explain it to you.
 
 >**What to look for in an answer:**
@@ -179,6 +179,7 @@ Integrity is consistently adhering to moral and ethical values regardless of the
 4. **Can you give me an example of how you&#39;ve contributed to the culture of previous teams, companies or groups?**
 5. **What do you look for in an employer?**
    - The best answer to this question would highlight the overlap between the candidate&#39;s passion and Neudesic&#39;s objectives. Look for signs of self-awareness, thoughtful career goals and an appreciation for the needs of the company.
+6. **What do you do if you realize you were hurtful to a teammate in front of the team?**
 
 >**What to look for in an answer:**
 >
