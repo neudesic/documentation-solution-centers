@@ -35,6 +35,8 @@ Passion is intense desire or enthusiasm for something. Passion clarifies purpose
      - A great answer could also include talking about a great team experience or meaningful project outside of the specifics of the code.
 7. **What are your career goals, and how do you plan to achieve them?**
    - A great employee is both ambitious and cooperative. Here, they should demonstrate a vision for their future that will make them an energetic and functional addition to your team.
+8. ***(Leadership)* Is leadership learned or innate?**
+9. ***(Leadership)* If leadership is learned, how did you learn to become a leader?**
 
 >**What to look for in an answer:**
 >
@@ -61,6 +63,7 @@ Discipline is the ability to control what one does and doesn&#39;t do regardless
 3. **Give me an example of a time you had to prioritize certain tasks or projects over others.**
 4. **How do you motivate yourself to tackle the least appealing item on your to-do list?**
 5. **What are some of the things you&#39;ve been working on improving recently?**
+6. ***(Leadership)* How do you set goals for your development team?**
 
 ***
 ### INNOVATION
@@ -81,6 +84,7 @@ Innovation is the ability to practically implement ideas. Innovation takes ideas
 3. **What does the word &quot;innovation&quot; mean to you?**
 4. **What has been your most meaningful work experience?**
    - Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren&#39;t ultimately successful. A great answer will include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
+5. ***(Leadership)* How do you help your development team, who may have less real-world experience, be innovate in types of business that they may not be familiar with?**
 
 >**What to look for in an answer:**
 >
@@ -160,6 +164,11 @@ When you hire a team leader for our business, you want to ensure they have a str
 >
 >&quot;Knowing a bit about your company culture, I think this approach will work well. The innovative and creativity driven culture fits well with my leadership style.&quot;
 
+10. ***(Leadership)* What do you think the hardest part of being a leader is?**
+11. ***(Leadership)* How would you describe your leadership style?**
+12. ***(Leadership)* Should leadership style be tweaked to fit each individual team member?**
+13. ***(Leadership)* What are some areas of leadership where you can improve?**
+
 ***
 ### INTEGRITY
 
@@ -181,6 +190,7 @@ Integrity is consistently adhering to moral and ethical values regardless of the
 5. **What do you look for in an employer?**
    - The best answer to this question would highlight the overlap between the candidate&#39;s passion and Neudesic&#39;s objectives. Look for signs of self-awareness, thoughtful career goals and an appreciation for the needs of the company.
 6. **What do you do if you realize you were hurtful to a teammate in front of the team?**
+7. ***(Leadership)* (let&#39;s say a developer on your team bypassed (or commented out unit tests) to get a build through in order to meet a very tight deadline. Once in UAT, several issues were present requiring re-work. What do you communicate to the developer**
 
 >**What to look for in an answer:**
 >
