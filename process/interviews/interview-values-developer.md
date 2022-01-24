@@ -3,6 +3,8 @@
 
 ***Note**: These questions are examples, and you are not required to ask all of them. As a guideline, try to make sure 2-3 questions per category get asked.*
 
+***"(Leadership)"**: Questions to be asked of Team Leads and sometimes Senior Developers.*
+
 ## Evaluating A Candidate During A Values Screening
 
 Below is the list of our core values (PDITI). Underneath each value you&#39;ll find:
