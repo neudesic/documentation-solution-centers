@@ -26,19 +26,19 @@ Passion is intense desire or enthusiasm for something. Passion clarifies purpose
 
 #### Example Questions
 
-- [ ] 1. **Tell me a time you had to go learn a new technology. How did you approach it, and what method did you find most useful?**
-- [ ] 2. **Tell me about your favorite project you have worked on.  What about this project made it your favorite?**
-- [ ] 3. **What do you enjoy about developing software**
-- [ ] 4. **Take five minutes and teach me about something in tech that you find interesting.**
-- [ ] 5. **What is it about Neudesic that makes you want to work here?**
-- [ ] 6. **What has been your most meaningful work experience?**
+1. **Tell me a time you had to go learn a new technology. How did you approach it, and what method did you find most useful?**
+2. **Tell me about your favorite project you have worked on.  What about this project made it your favorite?**
+3. **What do you enjoy about developing software**
+4. **Take five minutes and teach me about something in tech that you find interesting.**
+5. **What is it about Neudesic that makes you want to work here?**
+6. **What has been your most meaningful work experience?**
    - Listen for details of a project or challenge where the candidate showed competence and initiative, even if they weren't ultimately successful.
      - A great answer could include specifics of a quantifiable outcome or result from a successful experience or valuable insights and strategy improvements from a meaningful failure.
      - A great answer could also include talking about a great team experience or meaningful project outside of the specifics of the code.
-- [ ] 7. **What are your career goals, and how do you plan to achieve them?**
+7. **What are your career goals, and how do you plan to achieve them?**
    - A great employee is both ambitious and cooperative. Here, they should demonstrate a vision for their future that will make them an energetic and functional addition to your team.
-- [ ] 8. ***(Leadership)* Is leadership learned or innate?**
-- [ ] 9. ***(Leadership)* If leadership is learned, how did you learn to become a leader?**
+8. ***(Leadership)* Is leadership learned or innate?**
+9. ***(Leadership)* If leadership is learned, how did you learn to become a leader?**
 
 >**What to look for in an answer:**
 >
