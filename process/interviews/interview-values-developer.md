@@ -206,7 +206,7 @@ Integrity is consistently adhering to moral and ethical values regardless of the
    - They should be firm about not being willing to lie to the client, regardless of the pressure to do so.
 8. **What does the word integrity mean to you?**
    - Doing the right thing regardless of the consequences/rewards.
-9.  ***(Leadership)* let's say a developer on your team bypassed (or commented out unit tests) to get a build through in order to meet a very tight deadline. Once in UAT, several issues were present requiring re-work. What do you communicate to the developer?**
+9. ***(Leadership)* let's say a developer on your team bypassed (or commented out unit tests) to get a build through in order to meet a very tight deadline. Once in UAT, several issues were present requiring re-work. What do you communicate to the developer?**
 
 >**What to look for in an answer:**
 >
