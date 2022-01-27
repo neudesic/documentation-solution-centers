@@ -87,8 +87,7 @@ Innovation is the ability to practically implement ideas. Innovation takes ideas
 2. **Why are tennis balls fuzzy?**
 3. **What does the word "innovation" mean to you?**
 4. **Tell me about an inefficient or ineffective practice you saw in how a former workplace or project did things. What changes do you think could improve this practice?**
-5. **Tell me about an unconventional or unpopular opinion you have about how a company or project should do things.**
-6. ***(Leadership)* How do you help your development team, who may have less real-world experience, be innovate in types of business that they may not be familiar with?**
+5. ***(Leadership)* How do you help your development team, who may have less real-world experience, be innovate in types of business that they may not be familiar with?**
 
 >**What to look for in an answer:**
 >
