@@ -43,7 +43,6 @@
     - Be able to manage the energy and attitude of the team, especially when things are not going well.
     - Be empathetic to everyone- team members, other Neudesic groups, clients, users.
     - Assume positive intent; everyone is trying their best given the resources, people, and tool available at the time- until they show otherwise.
-- **Promotion Path:**    
 
 ## Senior Cloud Developer 1 &amp; 2
 
