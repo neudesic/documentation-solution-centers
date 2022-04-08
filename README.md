@@ -10,17 +10,17 @@ There is a general glossary with Solution Center specific terms, acronyms, and v
 
 ## General Processes
 
-[Handbook](./handbook/README.md)
+[Handbook](process/handbook/README.md)
 
-[Roles, Titles, Promotion Path](roles/roles-titles-promotion.md)
+[Roles, Titles, Promotion Path](process/roles/roles-titles-promotion.md)
 
 ## Interview Process
 
-[Values Interview](interviews/interview-other-question-bank.md)
+[Values Interview](process/interviews/interview-other-question-bank.md)
 
-[Technical Developer Interview](interviews/interview-technical-developer.md)
+[Technical Developer Interview](process/interviews/interview-technical-developer.md)
 
-[(WIP) Technical Cloud Engineer Interview](interviews/WIP-interview-values-cloud-engineer.md)
+[(WIP) Technical Cloud Engineer Interview](process/interviews/WIP-interview-values-cloud-engineer.md)
 
-[(Archive) Interview Other Questions](interviews/interview-other-question-bank.md)
+[(Archive) Interview Other Questions](process/interviews/interview-other-question-bank.md)
 
