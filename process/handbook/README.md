@@ -10,8 +10,9 @@ The Solution Center is a business unit within Neudesic.  Our teams operate indep
 
 Solution Center team members work fully remote, hybrid, and in-office from various locations around the world.
 
-* [Solution Center Policies](company.md)
-* [Team](team.md)
+* [Solution Center Policies](../company/README.md)
+* [Solution Center Narrative](../company/narrative.md)
+* [Onboarding Checklist](../company/onboarding-checklist.md)
 
 [→ back to top](#in-this-handbook)
 
