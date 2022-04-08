@@ -5,7 +5,7 @@ This is the Solution Center handbook. The goal is to create a source of truth fo
 [Introduction](#SC-handbook) | [Company](#company) | [Communications](#communications) | [Teams](#teams) | [Operations](#operations) | [Resources](#resources)
 
 ## [Company](company)
-* [About the Solution Center](company/#about-infura)
+* [About the Solution Center](company/#about-solutioncenter)
 * [Team](company/#team)
 * [Solution Center Policies](company/#solutioncenter)
 
@@ -13,18 +13,19 @@ This is the Solution Center handbook. The goal is to create a source of truth fo
 
 ## [Communications](communications)
 
-
 [→ back to top](#in-this-handbook)
 
 ## [Teams](teams)
 ### Cloud Developer Teams
-* [Development process documentation](development-process.md)
+* [Development Process](development-process.md)
+
 ### Cloud Engineering Teams
 
 [→ back to top](#in-this-handbook)
 
 ## [Operations](operations)
 
+* [Roles, Titles, Promotion Path](../roles/roles-titles-promotion.md)
 
 [→ back to top](#in-this-handbook)
 
