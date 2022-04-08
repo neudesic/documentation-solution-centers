@@ -5,9 +5,13 @@ This is the Solution Center handbook. The goal is to create a source of truth fo
 [Introduction](#SC-handbook) | [Company](#company) | [Communications](#communications) | [Teams](#teams) | [Operations](#operations) | [Resources](#resources)
 
 ## [Company](company)
-* [About the Solution Center](company/#about-solutioncenter)
-* [Team](company/#team)
-* [Solution Center Policies](company/#solutioncenter)
+
+The Solution Center is a business unit within Neudesic.  Our teams operate independently and has numerous processes, channels, and workflows that are specific to the Solution Center.
+
+Solution Center team members work fully remote, hybrid, and in-office from various locations around the world.
+
+* [Solution Center Policies](company.md)
+* [Team](team.md)
 
 [→ back to top](#in-this-handbook)
 
@@ -16,6 +20,63 @@ This is the Solution Center handbook. The goal is to create a source of truth fo
 [→ back to top](#in-this-handbook)
 
 ## [Teams](teams)
+* **Alpha Team**
+    * Stan McGinnis
+    * Alex Keefer
+    * Colin Mahan
+    * Alankritha Barla
+* **Chad's Crew**
+    * Chandra Singh
+    * Evan Henry
+    * Griffin Thompson
+* **Cloud Catchers**
+    * Chris Kurt
+    * Mahesh Pesani
+    * Subor Jamal
+    * Steve Kearney
+* **Cortex Team**
+    * Jerry Carter
+    * Bhuvi Iyer
+    * Adadm Davidson
+    * KK Yang
+    * Sourab Maduri
+* **Delta Team**
+    * Sean Kelly
+    * Justin Hertzberg
+    * Andy Donato
+    * Reed McGarvey
+    * Jeremy Minnick
+* **Gamma Team**
+    * Brent Farwig
+    * Andrew Pla
+    * Drake Lundstrom
+    * Chance Koogler
+* **Iota Team**
+    * David Wernery
+    * Lewis Lam
+    * Stephen Love
+* **Kappa Team**
+    * Ezra Silverman
+    * Justin Wilson
+    * Jacob Barnett
+    * Krescens Kok
+    * Zac Cooper
+* **Lambda Team**
+    * Harith Frangoul
+    * Drew Nagley
+    * David Gianni
+    * Alonso Canedo
+    * Bishnu Dahal
+* **PwC - React - Special Ops**
+    * Max Buss
+    * Ryan Borrell
+* **Sigma Team**
+    * Joseph Vadala
+    * Drew Grimes
+    * Jeff Parker
+    * Sophie McQuain
+    * Nick Ferritto
+
 ### Cloud Developer Teams
 * [Development Process](development-process.md)
 
