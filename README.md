@@ -10,7 +10,7 @@ There is a general glossary with Solution Center specific terms, acronyms, and v
 
 ## General Processes
 
-[Handbook](handbook/README.md)
+[Handbook](./handbook/README.md)
 
 [Roles, Titles, Promotion Path](roles/roles-titles-promotion.md)
 
