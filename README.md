@@ -16,7 +16,7 @@ There is a general glossary with Solution Center specific terms, acronyms, and v
 
 ## Interview Process
 
-[Values Interview](process/interviews/interview-other-question-bank.md)
+[Values Interview](process/interviews/interview-values-developer.md)
 
 [Technical Developer Interview](process/interviews/interview-technical-developer.md)
 
