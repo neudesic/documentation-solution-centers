@@ -4,10 +4,26 @@ Solution Center Glossary
 A list of internal terms/codenames and their real world definitions!
 
 ## Table of Contents
-* [General Terms](#general-terms)
 * [Success Vectors](#success-vectors)
-* [Roles](#roles)
+* [General Terms](#general-terms)
 * [Agile Methodology](#agile-methodology)
+
+
+## Success Vectors
+#### Emotional Intelligence
+Being aware that emotions can drive our behavior and impact people (positively and negatively) and learning how to manage those emotions – both our own and others.
+
+#### Financial Stewardship
+Spending resources wisely. Resources include time, money, people, and property. Financial consequences are evaluated before existing activities are changed or eliminated and new activities begins.
+
+#### Operational Clarity
+The ability to clearly define our vision, mission, strategy, opportunities, challenges, and priorities across the entire enterprise.
+
+#### Technical Excellence
+Sub-vectors include software design and engineering, development hygiene, multi-discipline like web, APIs (Application Programming Interface), data, cloud, etc.
+
+[→ back to top](#table-of-contents)
+
 
 ## General Terms
 #### AGILE / Agile Methodology
@@ -107,45 +123,6 @@ The traditional "waterfall" approach has one discipline contribute to the projec
 
 #### Wireframe
 The bare bones structure of a website. No fonts, colors, or images, this layout is the first step to making sure that the foundation is sound before content is added.
-
-[→ back to top](#table-of-contents)
-
-## Success Vectors
-#### Emotional Intelligence
-Being aware that emotions can drive our behavior and impact people (positively and negatively) and learning how to manage those emotions – both our own and others.
-
-#### Financial Stewardship
-Spending resources wisely. Resources include time, money, people, and property. Financial consequences are evaluated before existing activities are changed or eliminated and new activities begins.
-
-#### Operational Clarity
-The ability to clearly define our vision, mission, strategy, opportunities, challenges, and priorities across the entire enterprise.
-
-#### Technical Excellence
-Sub-vectors include software design and engineering, development hygiene, multi-discipline like web, APIs (Application Programming Interface), data, cloud, etc.
-
-[→ back to top](#table-of-contents)
-
-## Roles
-#### Team Lead Cloud Developer
-* 4-year degree or equivalent experience
-* 8 years minimum of professional development experience
-* Or 2 years minimum experience as a Senior Developer
-
-#### Senior Cloud Developer
-* 4-year degree or equivalent experience
-* 5 years minimum of professional development experience
-
-#### Cloud Developer
-* 4-year degree or equivalent experience
-* 2 years minimum of professional development experience as a Developer
-
-#### Associate Cloud Developer
-* 4-year degree or equivalent experience
-* Little to no professional development experience
-
-#### Junior Cloud Developer
-* Boot camp degree or equivalent experience
-* Little to no professional development experience
 
 [→ back to top](#table-of-contents)
 
