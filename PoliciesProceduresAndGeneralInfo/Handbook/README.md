@@ -83,7 +83,7 @@ Solution Center team members work fully remote, hybrid, and in-office from vario
 
 ### Cloud Developer Teams
 
-- [Development Process](development-process.md)
+- [Development Process](/StandardsAndBestPractices/development-process.md)
 
 ### Cloud Engineering Teams
 
