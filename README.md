@@ -6,7 +6,7 @@ This repo is the central hub for Solution Center processes and policies
 
 There is a general glossary with Solution Center specific terms, acronyms, and vernacular found here:
 
-[Glossary](glossary.md)
+* [Glossary](glossary.md)
 
 ## General Processes
 
