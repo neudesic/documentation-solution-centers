@@ -1,31 +1,18 @@
-# Alchemy Overview
-
-The Alchemy Project is a crucible used to create Neudesic Labs.
-
-> Alchemists attempted to purify, mature, and perfect certain materials. Common aims were chrysopoeia, the transmutation of "base metals" (e.g., lead) into "noble metals" (particularly gold); the creation of an elixir of immortality; and the creation of panaceas able to cure any disease. The perfection of the human body and soul was thought to result from the alchemical magnum opus ("Great Work"). The concept of creating the philosophers' stone was variously connected with all of these projects.
-
- <br />
- <br />
-
-# Alchemy Mechanisms
+# The Solution Center Internship <a name="Internship"></a>
 
 1. [The Internship Program](#Internship)
    1. [Introduction](#Introduction)
-   2. [The Business Challenge](#TheBusinessChallenge)
-   3. [Inputs](#Input)
-   4. [Tools](#Tools)
-   5. [Adoption](#Adoption)
-   6. [Inspection](#Inspection)
-   7. [Iteration](#Iteration)
-   8. [Output](#Output)
+   1. [The Business Challenge](#TheBusinessChallenge)
+   1. [Inputs](#Input)
+   1. [Tools](#Tools)
+   1. [Adoption](#Adoption)
+   1. [Inspection](#Inspection)
+   1. [Iteration](#Iteration)
+   1. [Output](#Output)
 
 <br />
 
 ---
-
-## The Solution Center Internship <a name="Internship"></a>
-
-<br />
 
 ### **Introduction** <a name="Introduction"></a>
 
