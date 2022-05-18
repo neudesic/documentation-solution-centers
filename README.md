@@ -6,7 +6,7 @@ This repo is the central hub for Solution Center processes and policies
 
 There is a general glossary with Solution Center specific terms, acronyms, and vernacular found here:
 
-* [Glossary](glossary.md)
+- [Glossary](glossary.md)
 
 ## General Processes
 
@@ -14,7 +14,7 @@ There is a general glossary with Solution Center specific terms, acronyms, and v
 
 ## Interview Process
 
-- [Values Interview](/PoliciesProceduresAndGeneralInfo/Interviews/interview-values-developer.md)
-- [Technical Developer Interview](/PoliciesProceduresAndGeneralInfo/Interviews/interview-technical-developer.md)
-- [(WIP) Technical Cloud Engineer Interview](/PoliciesProceduresAndGeneralInfo/Interviews/WIP-interview-values-cloud-engineer.md)
-- [(Archive) Interview Other Questions](/PoliciesProceduresAndGeneralInfo/Interviews/interview-other-question-bank.md)
+- [Values Interview](/interviews/interview-values-developer.md)
+- [Technical Developer Interview](/interviews/interview-technical-developer.md)
+- [(WIP) Technical Cloud Engineer Interview](/interviews/WIP-interview-values-cloud-engineer.md)
+- [(Archive) Interview Other Questions](/interviews/interview-other-question-bank.md)

@@ -12,9 +12,9 @@ The Solution Center is a business unit within Neudesic. Our teams operate indepe
 
 Solution Center team members work fully remote, hybrid, and in-office from various locations around the world.
 
-- [Solution Center Policies](../GeneralInformation/README.md)
-- [Solution Center Narrative](../GeneralInformation/narrative.md)
-- [Onboarding Checklist](../Onboarding/onboarding-checklist.md)
+- [Solution Center Policies](../general-information/README.md)
+- [Solution Center Narrative](../general-information/narrative.md)
+- [Onboarding Checklist](../../onboarding/onboarding-checklist.md)
 
 [→ back to top](#in-this-handbook)
 
@@ -83,7 +83,7 @@ Solution Center team members work fully remote, hybrid, and in-office from vario
 
 ### Cloud Developer Teams
 
-- [Development Process](/StandardsAndBestPractices/development-process.md)
+- [Development Process](/best-practices//development-process.md)
 
 ### Cloud Engineering Teams
 
@@ -91,7 +91,7 @@ Solution Center team members work fully remote, hybrid, and in-office from vario
 
 ## [Operations](operations)
 
-- [Roles, Titles, Promotion Path](../RolesAndResponsibilities/roles-titles-promotion.md)
+- [Roles, Titles, Promotion Path](../roles-and-responsibilities//roles-titles-promotion.md)
 
 [→ back to top](#in-this-handbook)
 
