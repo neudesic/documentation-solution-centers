@@ -6,11 +6,11 @@ This repo is the central hub for Solution Center processes and policies
 
 There is a general glossary with Solution Center specific terms, acronyms, and vernacular found here:
 
-- [Glossary](glossary.md)
+- [Glossary](/solution-center/glossary.md)
 
 ## General Processes
 
-- [Handbook](/PoliciesProceduresAndGeneralInfo//Handbook/README.md)
+- [Handbook](/solution-center/handbook/README.md)
 
 ## Interview Process
 
