@@ -13,7 +13,7 @@ You received a meeting invitation along with this document. This is a chance for
 - When you are not working, what do you like to do?
 - What goals do you have for this job?
 
-You will also learn a few valuable pieces if information:
+You will also learn a few valuable pieces of information:
 
 - Who should you contact when you are stuck?
 - What will your first tech stack be?
@@ -38,7 +38,7 @@ You will also learn a few valuable pieces if information:
 
 - Set up coding environment
   - Download and install Visual Studio Code
-  - Set up other coding environmentas deemed necessary by your team lead
+  - Set up other coding environments deemed necessary by your team lead
   - For security purposes, it is generally against Neudesic policy to use our personal computers to store sensitive data.
     - If you want to use your personal monitors to enhance your work space and screen real estate, we suggest using [Windows Remote Desktop](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c#:~:text=Use%20Remote%20Desktop%20to%20connect,)%2C%20and%20then%20select%20Connect.). Feel free to reach out to Chance Koogler or any other team members if you're having a hard time setting this software up.
 - Visit :[https://my.visualstudio.com](https://my.visualstudio.com/)and set up Azure and visual studios professional
@@ -46,7 +46,7 @@ You will also learn a few valuable pieces if information:
 - Onboarding chat
   - What are OKRs?
   - Go on a guided tour of the teams channel, understand that we don't use Timu
-  - What are Cloud Guru/Plural site, what kind of subscription does the company cover?
+  - What are Cloud Guru and Plural site, what kind of subscription does the company cover?
     - When you know what they are, the Personal Basic (Cloud Guru) and Personal Standard (PluralSight) plans are preapproved for purchase.
     - Make sure to get an **annual** subscription, on your personal email, and use this link for PluralSight for a discount: [here](https://learn.pluralsight.com/campaigns/referral?aid=7010a000001xAKUAA2&amp;utm_source=individual&amp;utm_medium=digital_referral_program&amp;rsProgram%3Db2b%26rsCode=CODE3226241&amp;rsShareMedium=DIRECT&amp;rsEngagementMedium=EMBED&amp;_saasquatch=eyJhcHAucmVmZXJyYWxzYWFzcXVhdGNoLmNvbSI6eyJhOHA2d2tqYXd4cGppX0NPREUiOnsiY29kZXMiOnsiY2xhc3NpYyI6IkNPREUzMjI2MjQxIn0sImxpbmtzIjp7ImNsYXNzaWMiOiJodHRwOi8vcmVmZXJyYWwucGx1cmFsc2lnaHQuY29tL21RbHVqSUcifX19fQ)
     - You can also use Udemy or Coursera, just talk to your team lead first if you want to be reimbursed
