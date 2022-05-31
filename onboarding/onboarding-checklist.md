@@ -47,7 +47,7 @@ You will also learn a few valuable pieces of information:
   - What are OKRs?
   - Go on a guided tour of the teams channel, understand that we don't use Timu
   - What are Cloud Guru and Plural site, what kind of subscription does the company cover?
-    - When you know what they are, the Personal Basic (Cloud Guru) and Personal Standard (PluralSight) plans are preapproved for purchase.
+    - When you know what they are, either the Personal Basic (Cloud Guru) plan or Personal Standard (PluralSight) plan is preapproved for purchase.
     - Make sure to get an **annual** subscription, on your personal email, and use this link for PluralSight for a discount: [here](https://learn.pluralsight.com/campaigns/referral?aid=7010a000001xAKUAA2&utm_source=individual&utm_medium=digital_referral_program&rsProgram%3Db2b%26rsCode=CODE3226241&rsShareMedium=DIRECT&rsEngagementMedium=EMBED&_saasquatch=eyJhcHAucmVmZXJyYWxzYWFzcXVhdGNoLmNvbSI6eyJhOHA2d2tqYXd4cGppX0NPREUiOnsiY29kZXMiOnsiY2xhc3NpYyI6IkNPREUzMjI2MjQxIn0sImxpbmtzIjp7ImNsYXNzaWMiOiJodHRwOi8vcmVmZXJyYWwucGx1cmFsc2lnaHQuY29tL21RbHVqSUcifX19fQ)
     - You can also use Udemy or Coursera, just talk to your team lead first if you want to be reimbursed
 - How do I use LastPass? (install it as an extension)
