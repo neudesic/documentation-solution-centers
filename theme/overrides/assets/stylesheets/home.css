@@ -1,0 +1,178 @@
+.mdx-container {
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: hsla(0, 0%, 100%, 1)' /></svg>") no-repeat bottom, linear-gradient( to bottom, var(--md-primary-fg-color), hsla(210, 67%, 55%, 1) 99%, var(--md-default-bg-color) 99% );
+}
+
+[data-md-color-scheme=slate] .mdx-container {
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: hsla(232, 15%, 21%, 1)' /></svg>") no-repeat bottom, linear-gradient( to bottom, var(--md-primary-fg-color), hsla(210, 67%, 55%, 1) 99%, var(--md-default-bg-color) 99% );
+}
+
+/* Application header should be static for the landing page */
+.md-header {
+    position: initial;
+}
+
+/* Remove spacing, as we cannot hide it completely */
+.md-main__inner {
+    margin: 0;
+}
+
+/* Hide main content for now */
+@media screen and (min-width: 76.25em) {
+    .md-content, .md-sidebar {
+        display: none !important;
+    }
+}
+
+/* Hide table of contents */
+@media screen and (min-width: 60em) {
+    .md-sidebar--secondary {
+        display: none !important;
+    }
+}
+
+/* Hide navigation */
+@media screen and (min-width: 76.25em) {
+    .md-sidebar--primary {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .md-search {
+        top: 280px !important;
+    }
+}
+
+
+@media screen and (min-width: 76.25em) {
+    .md-search {
+        top: 280px !important;
+    }
+}
+
+.md-search__form {
+    border-radius: 1.1rem !important;
+}
+
+.mdx-banner {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    color: var(--md-primary-bg-color);
+}
+
+.mdx-banner__content h1 {
+    color: var(--md-primary-bg-color);
+}
+
+.md-search {
+    position: absolute;
+    top: 280px;
+    left: 0;
+    width: 100%;
+}
+
+.md-search__overlay {
+    background-color: inherit;
+}
+
+.md-search__scrollwrap {
+    width: inherit !important;
+    text-align: left;
+}
+
+.md-search__inner {
+    width: 45% !important;
+    text-align: center;
+    float: none !important;
+    margin: 0 auto;
+}
+
+.md-search__input {
+    box-shadow: 0 0px 8px 0 rgb(0 0 0 / 20%), 0 6px 6px 0 rgb(0 0 0 / 19%) !important;
+    background-color: var(--md-default-bg-color) !important;
+    color: var(--md-primary-fg-color);
+    border-radius: 0.5rem;
+    height: 2.5rem;
+}
+
+.md-search__input+.md-search__icon {
+    color: var(--md-primary-fg-color);
+    top: 0.65rem;
+}
+
+.md-search__input::placeholder {
+    color: var(--md-primary-fg-color);
+}
+
+.md-search-result {
+    margin-top: 1rem;
+}
+
+.md-search-result__list {
+    text-align: left;
+}
+
+@media screen and (min-width: 76.25em) {
+    .mdx-links {
+        margin-top: 70px !important;
+    }
+}
+
+.mdx-link {
+    padding-left: 36px;
+    color: var(--md-primary-fg-color) !important;
+    position: absolute;
+}
+
+.mdx-links .mdc-layout-grid__inner {
+    grid-gap: 0.4rem 0.07rem;
+}
+
+.mdc-card-wrapper__text-section {
+    padding: 1rem;
+    min-height: 3.6rem;
+}
+
+.mdc-card {
+    border-radius: 0 !important;
+    min-height: 3.6rem;
+    box-shadow: 0 0px 8px 0 rgb(0 0 0 / 20%), 0 6px 6px 0 rgb(0 0 0 / 19%) !important;
+    background-color: var(--md-default-bg-color) !important;
+}
+
+.mdx-link-icon {
+    width: 25px;
+    height: 27px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: center;
+    color: var(--md-primary-fg-color);
+}
+
+.capability-and-strategic-offerings-icon {
+    background-image: url('./../images/capability-and-strategic-offerings.svg')
+}
+
+.best-practices-icon {
+    background-image: url('./../images/best-practices.svg');
+    width: 32px;
+    height: 32px;
+    background-size: 32px;
+}
+
+.data-platform-icon {
+    background-image: url('./../images/data-and-ai-platform.svg');
+}
+
+.use-cases-icon {
+    background-image: url('./../images/use-cases.svg');
+}
+
+.faqs-icon {
+    background-image: url('./../images/faqs.svg');
+}
+
+.blog-icon {
+    background-image: url('./../images/blog.svg');
+}

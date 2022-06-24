@@ -1,0 +1,5 @@
+INHERIT: mkdocs.yml
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
