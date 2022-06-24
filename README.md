@@ -16,5 +16,6 @@ There is a general glossary with Solution Center specific terms, acronyms, and v
 
 - [Values Interview](/interviews/interview-values-developer.md)
 - [Technical Developer Interview](/interviews/interview-technical-developer.md)
+- [Technical Developer Interview - ASP.Net Azure Checklick](/interviews/interview-azure-aspnet-checklist.md)
 - [(WIP) Technical Cloud Engineer Interview](/interviews/WIP-interview-values-cloud-engineer.md)
 - [(Archive) Interview Other Questions](/interviews/interview-other-question-bank.md)
