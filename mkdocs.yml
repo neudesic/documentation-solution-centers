@@ -1,0 +1,85 @@
+site_name: Neudesic Integration and API's
+site_url: https://data.neudesic.com/
+copyright: Copyright &copy; 2021 Neudesic LLC
+extra_css:
+  - assets/stylesheets/app.custom.v1.css
+  - assets/stylesheets/lightbox.min.css
+extra_javascript:
+  - assets/scripts/app.custom.v2.js
+  - assets/scripts/lightbox-plus-jquery.min.js
+plugins:
+    - search
+    - ezlinks:
+        warn_ambiguities: false
+        wikilinks: true
+extra:
+  analytics:
+    provider: clarity
+    property: 8fvjtr426e
+markdown_extensions:
+  - meta
+  - attr_list
+  - md_in_html
+  - toc:
+      toc_depth: 2
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - mdx_truly_sane_lists
+theme:
+  name: material
+  custom_dir: theme/overrides
+  favicon: assets/images/favicon.ico
+  logo: assets/images/data-ai-light.png
+  font:
+    text: Open Sans
+    code: Montserrat
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+nav:
+  - Practice Overview:
+     - Overview: overview/index.md
+  - How to Engage: 
+     - Overview: engage/index.md
+     - Community Meeting: engage/community.md
+     - GitHub: engage/github.md
+     - Local Community:  engage/localcommunity.md
+  - Capabilities and Offerings: 
+     - Overview: capabilities/index.md
+  - IP:
+     - Overview: ip/index.md
+     - Integration Framework: ip/integrationframework.md
+     - API Management Framework:  ip/apimframework.md
+  - Delivery Best Practices and Guidance:
+     - Overview: best-practices/index.md
+     - Azure Integration Services: best-practices/azureintegrationservices.md
+     - API Mnagement:  best-practices/apim.md
+     - Logic Apps:  best-practices/logicapps.md
+     - Service Bus: best-practices/servicebus.md
+     - Event Grid: best-practices/eventgrid.md

@@ -1,0 +1,115 @@
+<!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+{% extends "base.html" %}
+
+<!-- Custom front matter -->
+{% block styles %}
+{{ super() }}
+
+<!-- Extra stylesheets -->
+<link rel="stylesheet" href="{{ 'assets/stylesheets/home.css' | url }}" />
+<link rel="stylesheet" href="{{ 'assets/stylesheets/material-components-web.min.css' | url }}" />
+{% endblock %}
+
+<!-- Render home under tabs -->
+{% block tabs %}
+
+<!-- landing page -->
+<section class="mdx-container">
+    <div class="md-grid md-typeset">
+        <div class="mdx-banner">
+
+            <!-- Banner content -->
+            <div class="mdx-banner__content">
+                <div class="mdc-layout-grid">
+                    <div class="mdc-layout-grid__inner">
+                        <div class="mdc-layout-grid__cell--span-4 mdc-layout-grid__cell--align-middle">
+                            <h1>Welcome to Data & AI Documentation Site</h1>
+                        </div>
+                        <div class="mdc-layout-grid__cell--span-8 mdc-layout-grid__cell--align-middle">
+                            <p>Welcome to Data and AI, the ultimate guide that provides the user with everything that is required to know about the most relevant topics around data, machine learning and AI. This site should be the primary source for any business users looking to understand best practices and/or demos. Landing the right combination of skillsets, processes, and technologies necessary to boost modern enterprise analytics and decision-making capabilities. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mdc-layout-grid mdx-links">
+            <div class="mdc-layout-grid__inner">
+                <div class="mdc-layout-grid__cell--span-12-phone mdc-layout-grid__cell--span-12-tablet mdc-layout-grid__cell--span-4-desktop">
+                    <div class="mdc-card">
+                        <a href="{{ 'data-and-ai-capabilities-service-offerings-and-service-product-offerings/' | url }}" title="Capability and Strategic Offerings" class="mdc-card-wrapper__text-section">
+                            <i class="mdx-link-icon capability-and-strategic-offerings-icon"></i>
+                            <span class="mdx-link">Capability and Strategic Offerings</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="mdc-layout-grid__cell--span-12-phone mdc-layout-grid__cell--span-12-tablet mdc-layout-grid__cell--span-4-desktop">
+                    <div class="mdc-card">
+                        <a href="{{ 'data-and-ai-platform/' | url }}" title="Data & AI Accelerators" class="mdc-card-wrapper__text-section">
+                            <i class="mdx-link-icon data-platform-icon"></i>
+                            <span class="mdx-link">Data & AI Accelerators</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="mdc-layout-grid__cell--span-12-phone mdc-layout-grid__cell--span-12-tablet mdc-layout-grid__cell--span-4-desktop">
+                    <div class="mdc-card">
+                        <a href="{{ 'best-practices/' | url }}" title="Best Practices" class="mdc-card-wrapper__text-section">
+                            <i class="mdx-link-icon best-practices-icon"></i>
+                            <span class="mdx-link">Best Practices</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="mdc-layout-grid__cell--span-12-phone mdc-layout-grid__cell--span-12-tablet mdc-layout-grid__cell--span-4-desktop">
+                    <div class="mdc-card">
+                        <a href="{{ 'use-cases/' | url }}" title="Use Cases" class="mdc-card-wrapper__text-section">
+                            <i class="mdx-link-icon use-cases-icon"></i>
+                            <span class="mdx-link">Use Cases</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="mdc-layout-grid__cell--span-12-phone mdc-layout-grid__cell--span-12-tablet mdc-layout-grid__cell--span-4-desktop">
+                    <div class="mdc-card">
+                        <a href="{{ 'faqs/' | url }}" title="FAQs" class="mdc-card-wrapper__text-section">
+                            <i class="mdx-link-icon faqs-icon"></i>
+                            <span class="mdx-link">FAQs</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="mdc-layout-grid__cell--span-12-phone mdc-layout-grid__cell--span-12-tablet mdc-layout-grid__cell--span-4-desktop">
+                    <div class="mdc-card">
+                        <a href="{{ 'blogs/' | url }}" title="Blogs" class="mdc-card-wrapper__text-section">
+                            <i class="mdx-link-icon blog-icon"></i>
+                            <span class="mdx-link">Blogs</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+<!-- Hide Content -->
+{% block content %}{% endblock %}
+
+<!-- Application footer -->
+{% block footer %}{% endblock %}
