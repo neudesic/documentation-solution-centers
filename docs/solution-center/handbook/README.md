@@ -6,7 +6,7 @@ This is the Solution Center handbook. The goal is to create a source of truth fo
 
 [Introduction](#SC-handbook) | [Company](#company) | [Communications](#communications) | [Teams](#teams) | [Operations](#operations) | [Resources](#resources)
 
-## [Company](company)
+## Company
 
 The Solution Center is a business unit within Neudesic. Our teams operate independently and has numerous processes, channels, and workflows that are specific to the Solution Center.
 
@@ -18,11 +18,11 @@ Solution Center team members work fully remote, hybrid, and in-office from vario
 
 [→ back to top](#in-this-handbook)
 
-## [Communications](communications)
+## Communications
 
 [→ back to top](#in-this-handbook)
 
-## [Teams](teams)
+## Teams
 
 - **Alpha Team**
   - Stan McGinnis
@@ -78,7 +78,6 @@ Solution Center team members work fully remote, hybrid, and in-office from vario
   - Joseph Vadala
   - Drew Grimes
   - Jeff Parker
-  - Sophie McQuain
   - Nick Ferritto
 
 ### Cloud Developer Teams
@@ -89,12 +88,12 @@ Solution Center team members work fully remote, hybrid, and in-office from vario
 
 [→ back to top](#in-this-handbook)
 
-## [Operations](operations)
+## Operations
 
 - [Roles, Titles, Promotion Path](../roles-and-responsibilities//roles-titles-promotion.md)
 
 [→ back to top](#in-this-handbook)
 
-## [Resources](resources)
+## Resources
 
 [→ back to top](#in-this-handbook)
