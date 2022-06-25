@@ -1,0 +1,58 @@
+.md-header-nav {
+    padding: 0 .2rem;
+}
+
+.md-header__button.md-logo {
+    margin: 0;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    width: 105px;
+    height: 45px;
+    margin-left: 0.5rem;
+}
+
+.md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {
+    width: 105px;
+    height: 45px;
+}
+
+.md-header__title {
+    margin-left: 0;
+}
+
+.md-header__ellipsis {
+    display: none;
+}
+
+.md-typeset h1 {
+    margin-bottom: 0.25rem !important;
+}
+
+.md-typeset h2 {
+    margin-top: 0.8rem !important;
+}
+
+.md-typeset img, .md-typeset svg {
+    box-shadow: 0 0 10px #d5d3d3;
+    border-radius: 10px;
+}
+
+.md-typeset .emojione, .md-typeset .gemoji, .md-typeset .twemoji {
+    box-shadow: none;
+}
+
+.md-footer__inner {
+    display: none;
+}
+
+.md-footer-logo svg {
+    width: 150px;
+    height: 30px;
+    box-shadow: none;
+    margin-top: 14px;
+}
+
+.md-typeset blockquote {
+    display: block
+}
