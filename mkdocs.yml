@@ -1,6 +1,6 @@
-site_name: Neudesic Integration and API's
-site_url: https://data.neudesic.com/
-copyright: Copyright &copy; 2021 Neudesic LLC
+site_name: Neudesic Solution Centers and Labs
+site_url: https://labs.neudesic.com/
+copyright: Copyright &copy; 2022 Neudesic LLC
 extra_css:
   - assets/stylesheets/app.custom.v1.css
   - assets/stylesheets/lightbox.min.css
@@ -8,10 +8,10 @@ extra_javascript:
   - assets/scripts/app.custom.v2.js
   - assets/scripts/lightbox-plus-jquery.min.js
 plugins:
-    - search
-    - ezlinks:
-        warn_ambiguities: false
-        wikilinks: true
+  - search
+  - ezlinks:
+      warn_ambiguities: false
+      wikilinks: true
 extra:
   analytics:
     provider: clarity
@@ -62,24 +62,21 @@ theme:
     - navigation.tabs
     - navigation.top
     - toc.integrate
-nav:
-  - Practice Overview:
-     - Overview: overview/index.md
-  - How to Engage: 
-     - Overview: engage/index.md
-     - Community Meeting: engage/community.md
-     - GitHub: engage/github.md
-     - Local Community:  engage/localcommunity.md
-  - Capabilities and Offerings: 
-     - Overview: capabilities/index.md
+nav: # does this belong here or in nav.yml?
+  - Overview:
+      - Solution Center Overview: overview/index.md
+      - Solution Center Overview: overview/labs.md
+  - How to Engage:
+      - Overview: engage/index.md
+      - Community Meeting: engage/community.md
+      - GitHub: engage/github.md
+      - Site Communities: engage/localcommunity.md
+  - Capabilities and Offerings:
+      - Overview: capabilities/index.md
   - IP:
-     - Overview: ip/index.md
-     - Integration Framework: ip/integrationframework.md
-     - API Management Framework:  ip/apimframework.md
-  - Delivery Best Practices and Guidance:
-     - Overview: best-practices/index.md
-     - Azure Integration Services: best-practices/azureintegrationservices.md
-     - API Mnagement:  best-practices/apim.md
-     - Logic Apps:  best-practices/logicapps.md
-     - Service Bus: best-practices/servicebus.md
-     - Event Grid: best-practices/eventgrid.md
+      - Overview: ip/index.md
+  - Delivery Common Practices and Guidance:
+      - Overview: common-practices/index.md
+      - Continuous Delivery: common-practices/cd.md
+      - Kanban: common-practices/kanban.md
+      - Paired Programming: common-practices/paired-prog.md
